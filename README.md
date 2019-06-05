@@ -1,8 +1,8 @@
-# PasswordCreator
+# PasswordGenerator
 
 ## How to use
 
-1. `cd`でPasswordCreatorのディレクトリに移動
+1. `cd`でPasswordGeneratorディレクトリに移動
 
 2. `go run main.go [パスワード長] [パスワード生成数]`を実行
 
